@@ -1,0 +1,19 @@
+{
+  "type": "module",
+
+  "dependencies": {
+    "express": "^5.2.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1"
+  },
+
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3"
+  },
+
+  "scripts": {
+    "dev": "tsx server.ts"
+  }
+}
